@@ -33,9 +33,7 @@ Currently, I am working as a Python Developer at MR GLOBAL, where I spearhead fu
 - [**Content Strategy Advisor**](https://github.com/ManojKumarKolli/content-strategy-advisor): A machine learning model that provides content recommendations based on sentiment analysis of YouTube comments.
 
 ## Coding Stats
-🌟 Mastering data structures and algorithms one problem at a time. Check out my coding journey on [LeetCode](https://leetcode.com/u/ManojKumarKolli/):
-- **Problems Solved:** 250+
-- **Global Rank:** Top 5000
-- **Languages:** Python, C++, JavaScript
+🌟 Mastering data structures and algorithms one problem at a time. Check out my coding journey:
+![Manoj's LeetCode Stats]([<Your-LeetCode-Stats-Card-URL>](https://leetcode.com/u/ManojKumarKolli/))
 
 Feel free to explore my repositories and get in touch if you think we could collaborate on projects or innovations. Let's code the future together!
