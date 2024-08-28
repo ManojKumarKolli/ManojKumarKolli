@@ -20,7 +20,10 @@ I'm Manoj Kumar Kolli, a seasoned Data Scientist and Software Developer with ext
 
 Currently enhancing business processes and user experiences at MR GLOBAL as a Python Developer, I leverage AWS and full-stack development to drive operational excellence. My past role at Constella Intelligence involved pioneering cybersecurity solutions through machine learning frameworks and cloud infrastructure optimizations.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-kolli/) | 🔗 [Portfolio](https://manojkumarkolli.wixstudio.io/manojportfolio)
+<!-- 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-kolli/) | 🔗 [Portfolio](https://manojkumarkolli.wixstudio.io/manojportfolio) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-kolli/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=portfolio&logoColor=white)](https://manojkumarkolli.wixstudio.io/manojportfolio)
+
 
 ## Technical Skills
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
