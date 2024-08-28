@@ -33,7 +33,7 @@ Currently enhancing business processes and user experiences at MR GLOBAL as a Py
 
 ## Featured Project
 ### AI Resume Analyzer
-![AI Resume Analyzer](https://your-image-url.com/placeholder.png) <!-- Replace this with a relevant image URL -->
+<!-- ![AI Resume Analyzer](https://your-image-url.com/placeholder.png) --> <!-- Replace this with a relevant image URL -->
 - **Project Overview:** The [AI Resume Analyzer](https://airesumeanalyzer.streamlit.app/) is a sophisticated tool designed to optimize your resume for the modern job market. Leveraging advanced machine learning algorithms, it evaluates resumes against job descriptions, offering actionable insights and tailored advice to enhance your professional presentation.
 - **Technologies Used:** Python, Streamlit, Machine Learning, Natural Language Processing
 - **Impact:** Improves resume tailoring for job seekers, enhancing match rates and interview callbacks substantially.
