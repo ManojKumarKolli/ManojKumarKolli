@@ -12,28 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Welcome to Manoj Kumar Kolli's GitHub! 👋
 
 ## About Me
-I'm Manoj, a Data Scientist and Software Developer with a rich background in building scalable applications and data-driven solutions. I hold a Master’s degree in Data Science from the University of North Texas and a Bachelor's degree in Computer Science from SRKR Engineering College, India.
+I'm Manoj Kumar Kolli, a seasoned Data Scientist and Software Developer with extensive experience in building scalable applications and data-driven solutions. With advanced degrees in Data Science and Computer Science from the University of North Texas and SRKR Engineering College respectively, my professional journey spans across cutting-edge technology and innovative project management.
 
-Currently, I am working as a Python Developer at MR GLOBAL, where I spearhead full-stack development projects and innovate with cloud monitoring strategies using AWS. I've previously enhanced cybersecurity responses at Constella Intelligence by architecting robust machine learning frameworks and dynamic resource allocation pipelines. My entrepreneurial venture, CodeLoopp, reflects my passion for education and technology, where I co-created an AI-driven resume analyzer that drastically improves resume quality.
+Currently enhancing business processes and user experiences at MR GLOBAL as a Python Developer, I leverage AWS and full-stack development to drive operational excellence. My past role at Constella Intelligence involved pioneering cybersecurity solutions through machine learning frameworks and cloud infrastructure optimizations.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-kolli/) | 🔗 [Portfolio](https://manojkumarkolli.wixstudio.io/manojportfolio)
 
 ## Technical Skills
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 - **Frameworks & Libraries:** ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- **Databases & Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- **Databases & Cloud Services:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 - **Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## Projects
-- [**Cybersecurity Data Pipeline**](https://github.com/ManojKumarKolli/cybersecurity-pipeline): An AWS-based system that dynamically allocates resources to enhance threat detection and reduce operational costs by 35%.
-- [**AI Resume Analyzer**](https://github.com/ManojKumarKolli/resume-analyzer): A tool built as part of my startup that analyzes and enhances resumes, significantly improving job application outcomes.
-- [**Content Strategy Advisor**](https://github.com/ManojKumarKolli/content-strategy-advisor): A machine learning model that provides content recommendations based on sentiment analysis of YouTube comments.
+## Featured Project
+### AI Resume Analyzer
+![AI Resume Analyzer](https://your-image-url.com/placeholder.png) <!-- Replace this with a relevant image URL -->
+- **Project Overview:** The [AI Resume Analyzer](https://airesumeanalyzer.streamlit.app/) is a sophisticated tool designed to optimize your resume for the modern job market. Leveraging advanced machine learning algorithms, it evaluates resumes against job descriptions, offering actionable insights and tailored advice to enhance your professional presentation.
+- **Technologies Used:** Python, Streamlit, Machine Learning, Natural Language Processing
+- **Impact:** Improves resume tailoring for job seekers, enhancing match rates and interview callbacks substantially.
 
 ## Coding Stats
-🌟 Mastering data structures and algorithms one problem at a time. Check out my coding journey:
+Mastering data structures and algorithms one problem at a time. Check out my coding journey:
 ![Manoj's LeetCode Stats](https://leetcode.card.workers.dev/manojkumarkolli?theme=dark&font=baloo&extension=null)
 
-Feel free to explore my repositories and get in touch if you think we could collaborate on projects or innovations. Let's code the future together!
+## Collaboration
+I am always open to collaborating on projects and innovative solutions. If you think we can work together on something exciting and impactful, please reach out through my [LinkedIn](https://www.linkedin.com/in/manoj-kumar-kolli/) or explore more of my work on [my portfolio](https://manojkumarkolli.wixstudio.io/manojportfolio).
+
+Let's code the future together! 🚀
